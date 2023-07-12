@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "591038745442",
+    "project_id": "m3c-test-9d01f",
+    "storage_bucket": "m3c-test-9d01f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591038745442:android:dfd8342c413cf641f3fa3b",
+        "android_client_info": {
+          "package_name": "com.example.taks_3mc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591038745442-2qg34bnf2ssrmvbu6ifo67frd0b9mc0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFiucAPeHtwf0OZWUpGdVt6cBRRb7pmyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591038745442-2qg34bnf2ssrmvbu6ifo67frd0b9mc0t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "591038745442-knj4pqrjvi8jlh2lvch5dlrb6935d6m4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.taks3mc.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
