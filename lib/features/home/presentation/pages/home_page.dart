@@ -81,7 +81,7 @@ class HomePage extends StatelessWidget {
                   const Spacer(),
                   Text(localized(context).taskForYou),
                   TaskCarousel(tasks: state.tasks),
-                  vSpace30,
+                  hSpace40,
                 ],
               ),
             );
