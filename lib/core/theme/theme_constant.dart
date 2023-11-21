@@ -31,7 +31,7 @@ ThemeData lightTheme = ThemeData(
 
 ThemeData darkTheme = ThemeData(
   brightness: Brightness.dark,
-  primaryColor: colorAccent,
+  primaryColor: Colors.amberAccent,
   textTheme: const TextTheme(
     bodySmall: TextStyle(fontSize: 12),
     bodyMedium: TextStyle(fontSize: 17),
